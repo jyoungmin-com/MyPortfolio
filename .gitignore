@@ -1,0 +1,11 @@
+# Java
+*.class
+*.log
+target/
+.classpath
+.project
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
